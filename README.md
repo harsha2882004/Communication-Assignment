@@ -9,7 +9,7 @@
 
 *  P Krishnaveni - 12141220
 
-* Esha Jain - 12140
+* Esha Jain - 12140640
 
 ### Description:
 We have used two ardrino - uno's, bread board, connecting wires to do this project, in which one is the transmitter and another is the reciver. Using the digitalWrite functions in ardrino, we are able to generate the input pulse train. using the analogRead function we can read the voltages of the received signal.
